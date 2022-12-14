@@ -1,0 +1,5 @@
+javac -d bin .\db\*.java .\interface_for_db\*.java .\*.java
+
+cd bin
+
+java Main
